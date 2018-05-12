@@ -1,0 +1,29 @@
+_repo: The-Conflict-between-Private-Monopoly-and-Good-Citizenship_30375
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, John Graham
+    birthdate: 1846
+    deathdate: 1938
+    gutenberg_agent_id: '34566'
+    url: http://www.gutenberg.org/2009/agents/34566
+description: ''
+gutenberg_issued: '2009-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30375'
+  lccn: 09032251
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Economic conditions'
+- !lcsh 'Business ethics'
+- !lcc 'HC'
+- !lcsh 'Monopolies -- United States'
+title: The Conflict between Private Monopoly and Good Citizenship
+url: http://www.gutenberg.org/ebooks/30375
